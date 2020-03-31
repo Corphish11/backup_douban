@@ -28,6 +28,3 @@ pip3 install -r "requirments.txt"
 	  -i, --info            Display the wish list's infomatiom.
 	  -u, --update          Update local cache.
 	  -c, --clean           Clean local cache.
-
-#### 演示:  
-![Kapture 2019-11-17 at 14.51.00.gif](https://i.loli.net/2019/11/17/QVPuM6t9iNzcd4G.gif)
